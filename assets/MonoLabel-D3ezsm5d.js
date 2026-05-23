@@ -1,1 +1,0 @@
-import{j as o}from"./index-Bnninhb_.js";function n({children:t,className:a="",uppercase:e=!0}){return o.jsx("span",{className:`font-mono-data text-xs tracking-[0.12em] text-[#a0b0c0] ${e?"uppercase":""} ${a}`,children:t})}export{n as M};
