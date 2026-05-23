@@ -1,0 +1,1 @@
+import{g as e}from"./index-CRobDEO3.js";const p=e(t=>({todayFoods:[],todaySupplements:[],water:0,addFood:o=>t(d=>({todayFoods:[o,...d.todayFoods]})),addSupplement:o=>t(d=>({todaySupplements:[o,...d.todaySupplements]})),addWater:o=>t(d=>({water:d.water+o})),removeFood:o=>t(d=>({todayFoods:d.todayFoods.filter(a=>a.id!==o)}))}));export{p as u};
